@@ -1,0 +1,6 @@
+# Core pipeline + CLI use only the Python standard library (Python 3.10+).
+# Dashboard dependencies:
+streamlit>=1.30
+pandas>=2.0
+# PDF generation of the solution document is a one-off build step (tools/build_solution_pdf.py):
+reportlab>=4.0

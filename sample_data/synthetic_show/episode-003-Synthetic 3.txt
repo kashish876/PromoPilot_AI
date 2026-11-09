@@ -1,0 +1,66 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: Kane and Mara escape, but Mara learns Kane has been lying about who hired him.
+CONTINUITY NOTES: Follows Episode 2, where Victoria revealed herself as the true mastermind.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. ROOFTOP – DAWN
+Scene start: 00:00.00
+Scene end: 00:58.70
+
+Actions and dialogue:
+
+**ACTION:**
+Start: (00:00.00) | End: (00:03.90)
+Mara and Kane sprint across a rain-slicked rooftop as sirens wail below.
+
+**KANE (Shouting):**
+Start: (00:03.90) | End: (00:08.70)
+"Jump to the next building. Do not look down!"
+
+**MARA (Terrified):**
+Start: (00:09.20) | End: (00:11.00)
+"I can't!"
+
+**KANE (Commanding):**
+Start: (00:11.50) | End: (00:15.90)
+"You can. Your father jumped farther than this."
+
+**ACTION:**
+Start: (00:16.40) | End: (00:19.90)
+Mara leaps, lands hard, and rolls onto the gravel, gasping.
+
+**MARA (Breathless):**
+Start: (00:19.90) | End: (00:23.80)
+"You knew my father. Really knew him."
+
+**KANE (Quiet):**
+Start: (00:24.30) | End: (00:29.50)
+"I was his driver. Then his bodyguard. Then his friend."
+
+**MARA (Cold):**
+Start: (00:30.00) | End: (00:35.20)
+"Then why does his letter say never to trust you?"
+
+**ACTION:**
+Start: (00:35.70) | End: (00:39.40)
+Kane freezes. His hand drifts toward the holster at his hip.
+
+**KANE (Low, Menacing):**
+Start: (00:39.40) | End: (00:45.90)
+"Because he knew I would have to choose between you and my daughter."
+
+**MARA (Stunned):**
+Start: (00:46.40) | End: (00:48.20)
+"Your daughter?"
+
+**KANE (Grave):**
+Start: (00:48.70) | End: (00:54.30)
+"Victoria is my daughter, Mara. And she is not your cousin."
+
+**SOUND FX:**
+Start: (00:54.80) | End: (00:58.70)
+A deep, ominous string chord rises as the helicopter blades thunder overhead.
+
+--- SCRIPT END ---

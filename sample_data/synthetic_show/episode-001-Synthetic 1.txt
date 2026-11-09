@@ -1,0 +1,105 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Heiress Mara Voss is humiliated at her own engagement party, then learns from a stranger that her dead father is alive.
+CONTINUITY NOTES: First episode.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. GRAND BALLROOM – NIGHT
+Scene start: 00:00.00
+Scene end: 00:57.50
+
+Actions and dialogue:
+
+**ACTION:**
+Start: (00:00.00) | End: (00:05.10)
+Mara Voss, in a midnight-blue gown, freezes at the top of the staircase as the orchestra falls silent.
+
+**MARA (Shaken):**
+Start: (00:05.10) | End: (00:09.00)
+"Daniel? Tell me this is a joke."
+
+**DANIEL (Cold, Dismissive):**
+Start: (00:09.50) | End: (00:14.30)
+"The engagement is over, Mara. Sign the papers tonight."
+
+**MARA (Stunned):**
+Start: (00:14.80) | End: (00:19.60)
+"You asked me to marry you three weeks ago."
+
+**DANIEL (Smug):**
+Start: (00:20.10) | End: (00:25.30)
+"And you believed a man who needed your father's company."
+
+**ACTION:**
+Start: (00:25.80) | End: (00:29.50)
+Guests whisper behind champagne glasses. Mara's hand trembles on the banister.
+
+**MARA (Furious):**
+Start: (00:29.50) | End: (00:31.80)
+"You used me."
+
+**VICTORIA (Mocking):**
+Start: (00:32.30) | End: (00:37.90)
+"Everyone used you, darling. You were just the last to notice."
+
+**MARA (Defiant):**
+Start: (00:38.40) | End: (00:42.80)
+"Then let me be the first to leave."
+
+**ACTION:**
+Start: (00:43.30) | End: (00:47.80)
+Mara tears the diamond ring from her finger and hurls it into Daniel's champagne glass.
+
+**DANIEL (Enraged):**
+Start: (00:47.80) | End: (00:54.70)
+"You will regret this. No one in this city will ever hire you again!"
+
+**MARA (Breathless):**
+Start: (00:55.20) | End: (00:57.00)
+"Watch me."
+
+SCENE 02
+Scene heading: EXT. RAINY STREET – NIGHT
+Scene start: 00:57.50
+Scene end: 01:37.10
+
+Actions and dialogue:
+
+**ACTION:**
+Start: (00:57.50) | End: (01:01.20)
+Mara storms out into the downpour, mascara streaking down her cheeks.
+
+**STRANGER (Low, Calm):**
+Start: (01:01.20) | End: (01:04.70)
+"Miss Voss. Your father is alive."
+
+**MARA (Stunned):**
+Start: (01:05.20) | End: (01:08.70)
+"That is impossible. I buried him."
+
+**STRANGER (Grave):**
+Start: (01:09.20) | End: (01:15.70)
+"You buried an empty coffin. Get in the car before they find us."
+
+**SOUND FX:**
+Start: (01:16.20) | End: (01:20.10)
+Tires screech as a black sedan sweeps its headlights across the street.
+
+**MARA (Desperate):**
+Start: (01:20.10) | End: (01:22.40)
+"Who are you?"
+
+**STRANGER (Urgent):**
+Start: (01:22.90) | End: (01:31.00)
+"The man your father paid to keep you alive. Someone just put a price on your head."
+
+**ACTION:**
+Start: (01:31.50) | End: (01:35.00)
+A gunshot cracks. The sedan's rear window shatters beside Mara.
+
+**STRANGER (Shouting):**
+Start: (01:35.00) | End: (01:36.60)
+"Down!"
+
+--- SCRIPT END ---

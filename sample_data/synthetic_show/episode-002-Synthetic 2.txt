@@ -1,0 +1,97 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Mara hides in a safehouse and discovers the strangers' real employer is her ex-fiance's rival.
+CONTINUITY NOTES: Picks up directly from Episode 1's gunshot.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. SAFEHOUSE – CONTINUOUS
+Scene start: 00:00.00
+Scene end: 00:55.90
+
+Actions and dialogue:
+
+**ACTION:**
+Start: (00:00.00) | End: (00:04.30)
+Mara crawls across the cracked floor of a dim safehouse, glass in her hair.
+
+**MARA (Breathless):**
+Start: (00:04.30) | End: (00:07.80)
+"Who is trying to kill me?"
+
+**STRANGER (Cold):**
+Start: (00:08.30) | End: (00:14.30)
+"Call me Kane. Whoever it is, they know exactly who you are."
+
+**MARA (Furious):**
+Start: (00:14.80) | End: (00:18.30)
+"Take me to my father. Now."
+
+**KANE (Firm):**
+Start: (00:18.80) | End: (00:21.90)
+"Not until you read this."
+
+**ACTION:**
+Start: (00:22.40) | End: (00:26.50)
+Kane slides a sealed letter across the table. Mara recognises her father's handwriting.
+
+**MARA (Whispering):**
+Start: (00:26.50) | End: (00:31.30)
+"He wrote my name wrong. He never does that."
+
+**KANE (Grave):**
+Start: (00:31.80) | End: (00:38.30)
+"It's a warning. Your father signed a contract with Daniel Ashford years ago."
+
+**MARA (Stunned):**
+Start: (00:38.80) | End: (00:41.10)
+"Daniel? My Daniel?"
+
+**KANE (Low):**
+Start: (00:41.60) | End: (00:46.40)
+"The wedding was never about love. It was collateral."
+
+**ACTION:**
+Start: (00:46.90) | End: (00:51.00)
+Mara's knees give way. She grips the table as thunder rattles the windows.
+
+**MARA (Desperate):**
+Start: (00:51.00) | End: (00:55.40)
+"Then why did he leave me alone tonight?"
+
+SCENE 02
+Scene heading: INT. SAFEHOUSE CORRIDOR – NIGHT
+Scene start: 00:55.90
+Scene end: 01:25.90
+
+Actions and dialogue:
+
+**SOUND FX:**
+Start: (00:55.90) | End: (00:58.60)
+A floorboard creaks beyond the door.
+
+**KANE (Urgent):**
+Start: (00:58.60) | End: (01:03.80)
+"Stay behind me. They found us faster than I expected."
+
+**ACTION:**
+Start: (01:04.30) | End: (01:08.00)
+The door handle turns slowly. A silhouette fills the frosted glass.
+
+**VICTORIA (Smug):**
+Start: (01:08.00) | End: (01:12.80)
+"Hello, cousin. Did you really think you could hide?"
+
+**MARA (Stunned):**
+Start: (01:13.30) | End: (01:16.40)
+"Victoria? You work for him?"
+
+**VICTORIA (Mocking):**
+Start: (01:16.90) | End: (01:21.70)
+"I never worked for him. He works for me."
+
+**ACTION:**
+Start: (01:22.20) | End: (01:25.90)
+Victoria lifts a pistol and aims it directly at Mara's chest.
+
+--- SCRIPT END ---
